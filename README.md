@@ -1,4 +1,4 @@
-# 🚀 나만의 Neovim 설정 (My Custom Neovim Config)
+# Neovim 설정 (My Custom Neovim Config)
 
 이 설정은 C언어와 Python 개발에 최적화된 Neovim 환경입니다.  
 초보자도 쉽게 사용할 수 있도록 한글 주석과 직관적인 단축키를 제공합니다.
